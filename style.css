@@ -241,21 +241,6 @@ background-color:#777777;
 	
 	}
 
-.paragraphtwo {
-	
-	position:relative;
-	z-index: 1;
-	width:50%;
-	height:200px; 
-	top:15%;
-	left:50%;
-	right:5%;				/* same height */
-	background:#ffffff;
-	color:#777777;
-	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	float:left;
-	
-	}
 
 .contactSection {
 	
