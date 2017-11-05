@@ -228,6 +228,7 @@ background-color:#777777;
 .paragraph {
 	
 	position:relative;
+	align-text:left;
 	z-index: 1;
 	width:90%;
 	height:200px; 
